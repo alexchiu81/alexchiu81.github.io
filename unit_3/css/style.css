@@ -1,0 +1,61 @@
+h1 {
+	font-size: 40;
+	font-weight: bold;
+	font-family: Impact;
+	text-align: center;
+	color: Navy;
+	margin-bottom:-10px;
+}
+
+p {
+	font-size: 15px;
+	font-weight: normal;
+	font-family: Verdana;
+	text-align: center;
+	color: Navy;
+}
+
+.p1, ul {
+	font-size: 15px;
+	font-weight: normal;
+	font-family: Verdana;
+	text-align: center;
+	color: Navy;
+	padding: 0px;
+	margin-top:-10px;
+	list-style-position: inside;
+}
+
+#slogan{
+	font-size: 20px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: Verdana;
+	text-align: center;
+	color: Navy;
+	margin-bottom:-5px;
+}
+
+.pug1	{
+	width: 500px;
+	height: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr {
+	width: 500px;
+}
+
+body{
+	background-color: #F9C493;
+}
+
+div	{
+	width: 600px;
+	height: auto;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;	
+}
